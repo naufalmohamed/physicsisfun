@@ -1,0 +1,33 @@
+What is Physics?
+Physics is a branch of science which deals with the nature and the properties of matter and energy.
+Scientists who study and research about physics are called Physicists.
+Physics is involved in many of the day to day applications.
+Hence, it is taught as a subject in schools.
+
+Why Physics is interesting?
+Physics, unlike other branches of science is not limited to the earth.
+Everything around us formed due to physics.
+Physics formed, when the universe was formed.
+Through, physics many scientists are trying to answer the ultimate question:
+How the Universe began?
+
+Some Important topics of physics.
+Fundamental Topics
+- Magnetism
+- Light
+- Sound
+- Heat
+- Work and Energy
+- Motion,Force and Friction
+- Electricity
+- Electric Circuiuts
+Advanced Topics
+- Theory of relativity
+- Quantum Physics
+
+#FFFF80
+#E6FF99
+#FFA319
+#FF5C33
+
+
